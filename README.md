@@ -1,15 +1,10 @@
 # Road-Lane-Line-Detection-System
-TASK-1 of AI-ML Internship
-
 This project implements a lane detection system using computer vision techniques and deep learning.
-
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Code](#code)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 # Lane Detection System
 
@@ -95,24 +90,7 @@ The `lane_detection.py` script can be configured by modifying parameters such as
 
 Modify these parameters in the script to suit your needs.
 
-## Contributing
 
-We welcome contributions to improve this project. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a pull request.
-
-
-## Contact
-
-For questions or suggestions, please contact:
-
-T.Sunhith Reddy
-linkedin:- www.linkedin.com/in/sunhith-reddy-t
 
 
 
